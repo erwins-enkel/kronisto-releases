@@ -3,6 +3,14 @@
   <channel>
     <title>Kronisto</title>
     <item>
+      <title>Kronisto 0.12.0</title>
+      <pubDate>Sat, 07 Nov 2026 12:04:13 GMT</pubDate>
+      <sparkle:version>180</sparkle:version>
+      <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/erwins-enkel/kronisto-releases/releases/download/v0.12.0/Kronisto-0.12.0.zip" type="application/octet-stream" sparkle:edSignature="rk3fRhTXiHPnGMRk4FqNccgb3FVdksp84oTUQVIEY7fiBCr/gX0z7K5/SpL4SFyQk4bVRSWQNm8XDJDeKTZdCg==" length="23849897"/>
+    </item>
+    <item>
       <title>Kronisto 0.11.0</title>
       <pubDate>Fri, 06 Nov 2026 14:36:32 GMT</pubDate>
       <sparkle:version>172</sparkle:version>
